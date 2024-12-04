@@ -1,4 +1,4 @@
-![QQQ1-1536x493.png](1cdb88ce-9677-4be6-972e-cb66831bde73.png)
+![QQQ1-1536x493.png]()
 
 # Creating Rules in IBM QRadar
 
