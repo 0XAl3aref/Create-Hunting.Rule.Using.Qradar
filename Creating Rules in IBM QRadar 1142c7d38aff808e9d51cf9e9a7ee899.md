@@ -43,7 +43,7 @@ have to re-write them.
 <aside>
 
 
-## ** 1️⃣ Creating rules based on events**
+##  1️⃣ Creating rules based on events
 
 </aside>
 
@@ -75,7 +75,7 @@ have to re-write them.
 
 <aside>
 
-## ** 2️⃣ Creating rules based on data flows**
+## 2️⃣ Creating rules based on data flows
 
 </aside>
 
@@ -94,7 +94,7 @@ have to re-write them.
 <aside>
 
 
-## ** 4️⃣ Creating rules based on events and data flows**
+##4️⃣ Creating rules based on events and data flows
 
 </aside>
 
@@ -115,7 +115,7 @@ have to re-write them.
 <aside>
 
 
-## ** 5️⃣ Detecting deviations from the normal behavior**
+##5️⃣ Detecting deviations from the normal behavior
 
 </aside>
 
